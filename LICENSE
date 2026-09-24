@@ -1,0 +1,26 @@
+CryptoAnalyzer - Licence propriétaire (usage interne)
+
+Copyright (c) 2026 Les auteurs de CryptoAnalyzer. Tous droits réservés.
+
+1. Objet. Le présent logiciel (code source, binaires, installateurs, documentation, règles de détection et
+   catalogue d'algorithmes) est protégé par le droit d'auteur (Code de la propriété intellectuelle).
+
+2. Droit d'usage. Le titulaire des droits concède à l'organisation qui le déploie un droit d'utilisation
+   non exclusif, non transférable, limité à ses besoins internes (analyse de ses propres logiciels ou de
+   logiciels qu'elle est autorisée à analyser).
+
+3. Interdictions. Sauf accord écrit du titulaire des droits, il est interdit de : diffuser, vendre, louer ou
+   mettre à disposition de tiers le logiciel ; le proposer en tant que service à des tiers ; en retirer les
+   mentions de propriété ou de licence.
+
+4. Composants tiers. Le logiciel intègre des composants distribués sous leurs propres licences (voir
+   THIRD-PARTY-NOTICES.md). Ces licences s'appliquent à ces composants et prévalent pour ceux-ci.
+
+5. Absence de garantie. Le logiciel est fourni "en l'état". Ses résultats (inventaire cryptographique,
+   constats de sécurité, vulnérabilités) sont une aide à la décision : ils ne garantissent ni l'exhaustivité
+   des détections ni la conformité d'un logiciel analysé. Dans les limites autorisées par la loi, le titulaire
+   des droits ne saurait être tenu responsable des dommages résultant de son utilisation.
+
+6. Marques. Les noms et logos de tiers affichés par le logiciel restent la propriété de leurs titulaires.
+
+7. Droit applicable. La présente licence est régie par le droit français.
